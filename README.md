@@ -1,0 +1,2 @@
+# VideoCaptureTurboEx
+此项目用于捕获多个摄像头并按一定帧率写入本地磁盘
